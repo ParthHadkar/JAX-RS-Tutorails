@@ -1,0 +1,6 @@
+package com.jersey.mapper;
+
+public class DataNotFoundExceptionMapper 
+{
+
+}

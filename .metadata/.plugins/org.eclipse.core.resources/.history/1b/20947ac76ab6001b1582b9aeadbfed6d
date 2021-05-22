@@ -1,0 +1,19 @@
+package com.jersey.mapper;
+
+import javax.ws.rs.core.Response;
+import javax.ws.rs.ext.ExceptionMapper;
+import javax.ws.rs.ext.Provider;
+
+import com.jersey.exception.DataNotFoundException;
+
+@Provider
+public class DataNotFoundExceptionMapper implements ExceptionMapper<DataNotFoundException>
+{
+
+	@Override
+	public Response toResponse(DataNotFoundException exception) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

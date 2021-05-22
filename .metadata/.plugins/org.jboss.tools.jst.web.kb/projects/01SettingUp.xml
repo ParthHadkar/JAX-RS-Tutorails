@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/jersey/core/jersey-common/2.16/jersey-common-2.16.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/catalina-ssi.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-jni.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/el-api.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/jsp-api.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/websocket-api.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/hk2/hk2-locator/2.4.0-b09/hk2-locator-2.4.0-b09.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/catalina-ant.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/jasper-el.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-api.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/annotations-api.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/ecj-4.17.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/jersey/core/jersey-server/2.16/jersey-server-2.16.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/servlet-api.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/hk2/hk2-api/2.4.0-b09/hk2-api-2.4.0-b09.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/jersey/containers/jersey-container-servlet-core/2.16/jersey-container-servlet-core-2.16.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/catalina.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/catalina-tribes.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/hk2/hk2-utils/2.4.0-b09/hk2-utils-2.4.0-b09.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/catalina-ha.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/jasper.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.16/jersey-guava-2.16.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-coyote.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b09/aopalliance-repackaged-2.4.0-b09.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/jersey/media/jersey-media-jaxb/2.16/jersey-media-jaxb-2.16.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/hk2/external/javax.inject/2.4.0-b09/javax.inject-2.4.0-b09.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/jaspic-api.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Users/S-PC/.m2/repository/org/glassfish/jersey/core/jersey-client/2.16/jersey-client-2.16.jar"/>
+  <path value="C:/Server/apache-tomcat-9.0.41/lib/tomcat-util.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core"/>
+  <el>
+   <linked-el length="17" name="%0" offset="1163" path="%1"/>
+   <linked-el length="17" name="%2" offset="1163" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="jersey.version" value="%0"/>
+  <alias path="jersey" value="%2"/>
+  <alias path="/01SettingUp/pom.xml" value="%1"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

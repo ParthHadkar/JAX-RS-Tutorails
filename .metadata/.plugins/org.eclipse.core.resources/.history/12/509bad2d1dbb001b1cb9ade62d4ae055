@@ -1,0 +1,18 @@
+package com.rest.client;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.core.MediaType;
+
+public class GenericTypeDemo 
+{
+	public static void main(String[] args) 
+	{
+		Client client = ClientBuilder.newClient();
+		client.target("http://localhost:8080/30HandlingGenericTypes/webapi/")
+		                             .path("messages")
+		                             .queryParam("year", 2021)
+		                             .request(MediaType.APPLICATION_JSON)
+		                             .get();
+	}
+}

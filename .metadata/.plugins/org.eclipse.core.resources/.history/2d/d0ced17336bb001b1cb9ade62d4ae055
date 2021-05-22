@@ -1,0 +1,29 @@
+package com.rest.filters;
+
+import java.io.IOException;
+import java.util.List;
+
+import javax.ws.rs.container.ContainerRequestContext;
+import javax.ws.rs.container.ContainerRequestFilter;
+
+public class SecurityFilter implements ContainerRequestFilter
+{
+	private static String AUTHORIZATION_HEADER = "Authorization";
+	private static String AUTHORIZATION_HEADER_PREFIX = "Base ";
+	private static String SECURED_URI_PREFIX = "secured";
+
+	@Override
+	public void filter(ContainerRequestContext requestContext) throws IOException 
+	{
+		String securedUri = requestContext.getUriInfo().getPath();
+		if(securedUri.contains(SECURED_URI_PREFIX)) 
+		{
+			List<String> list = requestContext.getHeaders().get(AUTHORIZATION_HEADER);
+			if(list != null && list.size() > 0) 
+			{
+				
+			}
+		}
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.jersey.model;
+
+public class Link 
+{
+	private String link;
+	private String ref;
+}

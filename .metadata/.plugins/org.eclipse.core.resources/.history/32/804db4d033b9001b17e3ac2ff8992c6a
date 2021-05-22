@@ -1,0 +1,32 @@
+package com.rest.converter;
+
+import java.util.Calendar;
+
+import javax.ws.rs.ext.ParamConverter;
+
+public class DataParamConverter implements ParamConverter<T>
+{
+
+	@Override
+	public T fromString(String value) 
+	{
+		Calendar returnDate = Calendar.getInstance();
+		if(value.equalsIgnoreCase("Tommorow")) 
+		{
+			returnDate.add(Calendar.DATE, 1);
+		}
+		else if(value.equalsIgnoreCase("Yestarday")) 
+		{
+			returnDate.add(Calendar.DATE, 1);
+		}
+		return null;
+	}
+
+	@Override
+	public String toString(T value) 
+	{
+		
+		return null;
+	}
+
+}

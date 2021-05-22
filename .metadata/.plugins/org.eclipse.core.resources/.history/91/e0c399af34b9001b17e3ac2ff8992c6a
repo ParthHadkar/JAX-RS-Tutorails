@@ -1,0 +1,24 @@
+package com.rest.provider;
+
+import java.lang.annotation.Annotation;
+import java.lang.reflect.Type;
+
+import javax.ws.rs.ext.ParamConverter;
+import javax.ws.rs.ext.ParamConverterProvider;
+
+import com.rest.model.MyDate;
+
+public class DataParamCoverterProvider implements ParamConverterProvider
+{
+
+	@Override
+	public <T> ParamConverter<T> getConverter(Class<T> rawType, Type genericType, Annotation[] annotations) 
+	{
+		if(rawType.getClass().getName().equals(MyDate.class.getName())) 
+		{
+			
+		}
+		return null;
+	}
+
+}

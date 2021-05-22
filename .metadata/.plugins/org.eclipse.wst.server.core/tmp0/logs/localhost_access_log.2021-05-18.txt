@@ -1,0 +1,11 @@
+127.0.0.1 - - [18/May/2021:01:04:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/May/2021:01:04:59 +0530] "GET /20SettingUpAJAXRSApplication/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [18/May/2021:01:05:24 +0530] "GET /20SettingUpAJAXRSApplication/webapi/myresource HTTP/1.1" 200 20
+127.0.0.1 - - [18/May/2021:18:31:41 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:31:47 +0530] "GET /21ResourceLifeCycle/ HTTP/1.1" 200 52
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:31:47 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:31:59 +0530] "GET /21ResourceLifeCycle/webapi/myresource HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:32:02 +0530] "GET /21ResourceLifeCycle/webapi/myresource HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:32:03 +0530] "GET /21ResourceLifeCycle/webapi/myresource HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:32:03 +0530] "GET /21ResourceLifeCycle/webapi/myresource HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [18/May/2021:18:32:03 +0530] "GET /21ResourceLifeCycle/webapi/myresource HTTP/1.1" 200 56

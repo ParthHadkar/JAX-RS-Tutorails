@@ -1,0 +1,9 @@
+package com.jersey.mapper;
+
+import javax.ws.rs.ext.Provider;
+
+@Provider
+public class GenericExceptionMapper 
+{
+
+}

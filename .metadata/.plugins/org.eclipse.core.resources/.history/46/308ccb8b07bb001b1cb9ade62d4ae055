@@ -1,0 +1,9 @@
+package com.rest.client;
+
+public class InvocationDemo 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

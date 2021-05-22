@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.jboss.tools.ws.jaxrs.ui.validator.problem.resourceInvalidPathAnnotationValue=error
+org.jboss.tools.ws.jaxrs.ui.validator.problem.resourceMethodInvalidPathParamAnnotationValue=warning
+org.jboss.tools.ws.jaxrs.ui.validator.problem.resourceMethodUnboundPathParameterAnnotationValue=warning

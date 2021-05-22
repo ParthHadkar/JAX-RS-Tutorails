@@ -1,0 +1,9 @@
+package com.rest.client;
+
+public class GenericTypeDemo 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

@@ -1,0 +1,8 @@
+package com.rest.converter;
+
+import javax.ws.rs.ext.ParamConverter;
+
+public class DataParamConverter implements ParamConverter<T>
+{
+
+}

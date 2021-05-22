@@ -1,0 +1,10 @@
+package com.jersey.model;
+
+public class ErrorMessage 
+{
+	private String errorMessage;
+	private int errorCode;
+	private String documentation;
+	
+	
+}

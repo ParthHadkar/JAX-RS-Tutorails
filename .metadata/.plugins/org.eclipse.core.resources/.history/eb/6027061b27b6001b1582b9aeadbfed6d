@@ -1,0 +1,6 @@
+package com.jersey.model;
+
+public class Comment 
+{
+	
+}

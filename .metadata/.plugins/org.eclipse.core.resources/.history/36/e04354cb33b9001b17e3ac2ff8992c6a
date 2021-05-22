@@ -1,0 +1,22 @@
+package com.rest.converter;
+
+import javax.ws.rs.ext.ParamConverter;
+
+public class DataParamConverter implements ParamConverter<T>
+{
+
+	@Override
+	public T fromString(String value) 
+	{
+		
+		return null;
+	}
+
+	@Override
+	public String toString(T value) 
+	{
+		
+		return null;
+	}
+
+}

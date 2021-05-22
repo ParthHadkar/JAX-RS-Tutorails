@@ -1,0 +1,5 @@
+package com.jersey.model;
+
+public class Link {
+
+}

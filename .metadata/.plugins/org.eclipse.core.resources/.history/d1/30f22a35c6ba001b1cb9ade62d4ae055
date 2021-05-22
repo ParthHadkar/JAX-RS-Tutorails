@@ -1,0 +1,30 @@
+package com.rest.client;
+
+import javax.ws.rs.client.Client;
+import javax.ws.rs.client.ClientBuilder;
+import javax.ws.rs.client.Invocation.Builder;
+import javax.ws.rs.client.WebTarget;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+import  com.rest.messenger.jersey.model.Message;
+
+public class RestApiClient 
+{
+	
+	public static void main(String[] args) 
+	{
+		// one way of getting the data
+		Client client = ClientBuilder.newClient();
+		 WebTarget BaseTarget = client.target("http://localhost:8080/26WritingAJAXRSClient/webapi/");
+		 
+		// another way of getting the data
+		 WebTarget target = client.target("http://localhost:8080/26WritingAJAXRSClient/webapi/messages/1");
+		Builder builder = target.request();
+		response = builder.get();
+		message = response.readEntity(Message.class);
+		System.out.println("message2 "+message.getMessage());
+		
+		
+	}
+}

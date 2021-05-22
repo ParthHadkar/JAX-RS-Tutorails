@@ -1,0 +1,17 @@
+127.0.0.1 - - [12/May/2021:00:51:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:51:46 +0530] "GET /05AccessingPathParams/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:51:47 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:52:53 +0530] "GET /05AccessingPathParams/webapi/myresource HTTP/1.1" 200 7
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:07 +0530] "GET /05AccessingPathParams/webapi/message/1 HTTP/1.1" 404 713
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:15 +0530] "GET /05AccessingPathParams/webapi/messages/1 HTTP/1.1" 200 185
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:23 +0530] "GET /05AccessingPathParams/webapi/messages/2 HTTP/1.1" 200 186
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:27 +0530] "GET /05AccessingPathParams/webapi/messages/3 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:30 +0530] "GET /05AccessingPathParams/webapi/messages/1 HTTP/1.1" 200 185
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:35 +0530] "GET /05AccessingPathParams/webapi/messages/12 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [12/May/2021:00:53:37 +0530] "GET /05AccessingPathParams/webapi/messages/2 HTTP/1.1" 200 186
+127.0.0.1 - - [12/May/2021:01:11:25 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [12/May/2021:01:11:29 +0530] "GET /06ReturningJSONResponse/ HTTP/1.1" 200 247
+0:0:0:0:0:0:0:1 - - [12/May/2021:01:11:40 +0530] "GET /06ReturningJSONResponse/webapi/myresource HTTP/1.1" 200 7
+0:0:0:0:0:0:0:1 - - [12/May/2021:01:11:57 +0530] "GET /06ReturningJSONResponse/webapi/messages HTTP/1.1" 200 176
+0:0:0:0:0:0:0:1 - - [12/May/2021:01:12:05 +0530] "GET /06ReturningJSONResponse/webapi/messages/1 HTTP/1.1" 200 86
+0:0:0:0:0:0:0:1 - - [12/May/2021:01:12:06 +0530] "GET /06ReturningJSONResponse/webapi/messages/2 HTTP/1.1" 200 87

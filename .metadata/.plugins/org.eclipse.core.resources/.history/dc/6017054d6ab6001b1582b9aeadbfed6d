@@ -1,0 +1,6 @@
+package com.jersey.exception;
+
+public class DataNotFoundException extends RuntimeException 
+{
+
+}

@@ -1,0 +1,71 @@
+INDEX VERSION 1.131
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2798458977.index
+\29CreatingInvocations\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2678552443.index
+\30HandlingGenericTypes\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\42290882.index
+\20SettingUpAJAXRSApplication\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4259075066.index
+\07ImplementingPOSTMethod\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3136028492.index
+\31ImplementingFilters\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1413685010.index
+\12UsingContextAndBeanParamAnnotations\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\508143761.index
+\02CreatingResourcess\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\534342898.index
+\06ReturningJSONResponse\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3512787189.index
+\13ImplementingSubresources\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4022959677.index
+\20SettingUpAJAXRSApplications\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\440333247.index
+\21ResourceLifeCycle\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\130533130.index
+\17HATEOAS\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2483682808.index
+\05AccessingPathParams\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\944641610.index
+\03ReturningXmlResponse\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1673604069.index
+\18ContentNegotiation\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2639318366.index
+\28MakingAHttpRequest\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3948357496.index
+\26WritingAJAXRSClient\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1586150434.index
+\16UsingWebApplicationException\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1026536828.index
+\01SettingUp\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3473875111.index
+\09ImplementingProfileResource\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1794197853.index
+\28MakingAPOSTRequest\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\510643050.index
+\27SomeBestPractices\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1729547613.index
+\08ImplementingUpdateAndDelete\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4194097270.index
+\23ImplementingCustomParamConverters\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\950099498.index
+\14SendingStatusCodesAndLocationHeaders\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3242811026.index
+\11TheParamAnnotations\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1149593496.index
+\10PaginationAndFiltering\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1048569828.index
+\24ImplementingMessageBodyWriterAndReader\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3665726372.index
+\32ImplementingAuthorization\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1159420236.index
+\04BuildingServiceStubs\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1340338673.index
+\15HandlingExceptions\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\479160756.index
+\02CreatingResource\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1052549769.index
+\20ResourceLifeCycle\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3304344565.index
+\22ParamAnnotationsAndMemberVariables\src\main\java
+E:\OfficeTutorials\Jersey Webservices Tutorials\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\66874002.index
+\25CustomMediaTypes\src\main\java

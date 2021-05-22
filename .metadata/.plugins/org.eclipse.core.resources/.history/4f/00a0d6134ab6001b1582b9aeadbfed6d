@@ -1,0 +1,9 @@
+package com.jersey.resources;
+
+import javax.ws.rs.Path;
+
+@Path("/")
+public class CommentResource 
+{
+	
+}

@@ -1,0 +1,9 @@
+package com.rest.resources;
+
+import javax.ws.rs.Path;
+
+@Path("/myresources")
+public class MyResources 
+{
+
+}

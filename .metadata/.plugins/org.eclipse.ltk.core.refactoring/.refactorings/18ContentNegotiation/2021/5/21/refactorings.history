@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 source folders to &apos;20SettingUpAJAXRSApplication&apos;&#x0D;&#x0A;- Original project: &apos;18ContentNegotiation&apos;&#x0D;&#x0A;- Destination element: &apos;20SettingUpAJAXRSApplication&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     18ContentNegotiation/src/main/resources&#x0D;&#x0A;     18ContentNegotiation/src/main/java" description="Copy source folders" element1="/src\/main\/resources=/maven.pomderived=/true=/" element2="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="2" stamp="1621278211099" target="/20SettingUpAJAXRSApplication" version="1.0"/>
+</session>
